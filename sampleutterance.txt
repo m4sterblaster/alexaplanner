@@ -1,0 +1,2 @@
+GetStrategy for a plan
+GetStrategyForDate for a plan for {ForDate}
